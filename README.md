@@ -1,4 +1,4 @@
-# GettingAndCleaningPJT
+# gettingandcleaningData
 Course project for the Getting and Cleaning Data course. The R script, analysis.R, does the following:
 
 1. Download the dataset if it does not already exist in the working directory
